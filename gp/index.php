@@ -23,8 +23,6 @@
 	<nav id="nav_menu">
 		<ul>
 			<li><a href="">Home</a></li>
-			<li><a href="">Text1</a></li>	
-			<li><a href="">Text2</a></li>	
 		</ul>
 	</nav>
 
